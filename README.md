@@ -18,5 +18,5 @@ the default is the bunny obj
 
 if you want to test the obj from Diligent dataset, such as cat
 ```
-python DPG.py --obj cat_mat_png -i 1
+python DGP.py --obj cat_mat_png -i 1
 ```
